@@ -1,7 +1,7 @@
 == NEWZ
 
-Demo: *[newz.mxd.cz]* +
-Repository: *[github.com/mxdpeep/newz]*
+Demo: *[https://newz.mxd.cz]* +
+Repository: *[https://github.com/mxdpeep/newz]*
 
 Distributed under *MIT* license.
 
