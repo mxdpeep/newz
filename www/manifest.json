@@ -1,0 +1,26 @@
+{
+  "short_name": "NEWZ",
+  "name": "Zprávy hezky česky",
+  "icons": [{
+      "src": "/img/favicon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/favicon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/img/maskable_icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "background_color": "#000",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": ".",
+  "theme_color": "black"
+}
