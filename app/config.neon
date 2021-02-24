@@ -49,7 +49,7 @@ routers: [
 ]
 
 # localization
-lang: en
+lang: cs
 l:
   title: "NEWZ"
   author: "Fred Brooker @ GS Cloud Ltd."
