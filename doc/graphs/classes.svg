@@ -134,33 +134,33 @@
 <path fill="none" stroke="#000000" d="M380.7007,-222.0249C374.697,-224.8969 368.6423,-227.9354 363,-231 330.6357,-248.5789 295.4089,-271.2481 270.2007,-288.132"/>
 <polygon fill="none" stroke="#000000" points="268.06,-285.354 261.7233,-293.8449 271.972,-291.1589 268.06,-285.354"/>
 </g>
-<!-- \\GSC\\UnitTester -->
-<g id="node10" class="node">
-<title>\\GSC\\UnitTester</title>
-<polygon fill="none" stroke="#000000" points="464,-168 380,-168 380,-132 464,-132 464,-168"/>
-<text text-anchor="middle" x="422" y="-147.2" font-family="Courier,monospace" font-size="11.00" fill="#000000">UnitTester</text>
-</g>
-<!-- \\GSC\\CliPresenter -->
-<g id="node11" class="node">
-<title>\\GSC\\CliPresenter</title>
-<polygon fill="none" stroke="#000000" points="471,-114 373,-114 373,-78 471,-78 471,-114"/>
-<text text-anchor="middle" x="422" y="-93.2" font-family="Courier,monospace" font-size="11.00" fill="#000000">CliPresenter</text>
-</g>
-<!-- \\GSC\\CliPresenter&#45;&gt;\\GSC\\APresenter -->
-<g id="edge9" class="edge">
-<title>\\GSC\\CliPresenter&#45;&gt;\\GSC\\APresenter</title>
-<path fill="none" stroke="#000000" d="M375.708,-114.1095C371.1966,-116.7618 366.8664,-119.7218 363,-123 308.3348,-169.3483 267.2137,-244.685 247.8251,-284.8155"/>
-<polygon fill="none" stroke="#000000" points="244.5978,-283.4527 243.477,-293.9881 250.9232,-286.4511 244.5978,-283.4527"/>
-</g>
 <!-- \\GSC\\NewzPresenter -->
-<g id="node12" class="node">
+<g id="node10" class="node">
 <title>\\GSC\\NewzPresenter</title>
-<polygon fill="none" stroke="#000000" points="474,-60 370,-60 370,-24 474,-24 474,-60"/>
-<text text-anchor="middle" x="422" y="-39.2" font-family="Courier,monospace" font-size="11.00" fill="#000000">NewzPresenter</text>
+<polygon fill="none" stroke="#000000" points="474,-168 370,-168 370,-132 474,-132 474,-168"/>
+<text text-anchor="middle" x="422" y="-147.2" font-family="Courier,monospace" font-size="11.00" fill="#000000">NewzPresenter</text>
 </g>
 <!-- \\GSC\\NewzPresenter&#45;&gt;\\GSC\\APresenter -->
-<g id="edge10" class="edge">
+<g id="edge9" class="edge">
 <title>\\GSC\\NewzPresenter&#45;&gt;\\GSC\\APresenter</title>
+<path fill="none" stroke="#000000" d="M377.4589,-168.1066C372.4184,-170.8129 367.4873,-173.7858 363,-177 319.3476,-208.2674 278.5259,-255.9947 255.3298,-285.528"/>
+<polygon fill="none" stroke="#000000" points="252.3491,-283.6605 248.9901,-293.7087 257.8822,-287.9484 252.3491,-283.6605"/>
+</g>
+<!-- \\GSC\\UnitTester -->
+<g id="node11" class="node">
+<title>\\GSC\\UnitTester</title>
+<polygon fill="none" stroke="#000000" points="464,-114 380,-114 380,-78 464,-78 464,-114"/>
+<text text-anchor="middle" x="422" y="-93.2" font-family="Courier,monospace" font-size="11.00" fill="#000000">UnitTester</text>
+</g>
+<!-- \\GSC\\CliPresenter -->
+<g id="node12" class="node">
+<title>\\GSC\\CliPresenter</title>
+<polygon fill="none" stroke="#000000" points="471,-60 373,-60 373,-24 471,-24 471,-60"/>
+<text text-anchor="middle" x="422" y="-39.2" font-family="Courier,monospace" font-size="11.00" fill="#000000">CliPresenter</text>
+</g>
+<!-- \\GSC\\CliPresenter&#45;&gt;\\GSC\\APresenter -->
+<g id="edge10" class="edge">
+<title>\\GSC\\CliPresenter&#45;&gt;\\GSC\\APresenter</title>
 <path fill="none" stroke="#000000" d="M374.7374,-60.052C370.516,-62.6947 366.5164,-65.6687 363,-69 297.2921,-131.2505 258.89,-234.94 243.4541,-284.2766"/>
 <polygon fill="none" stroke="#000000" points="240.0749,-283.359 240.5073,-293.945 246.7708,-285.3999 240.0749,-283.359"/>
 </g>
