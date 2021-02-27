@@ -2,18 +2,5 @@ home:
   language: cs
   path: /
   presenter: newz
+  template: newz
   sitemap: true
-
-call1:
-  path: "/api/v1/call1/[a:string]"
-  api_description: "API call example #1"
-  api_info: "Returns: array of records"
-  api_example: [
-    "api/v1/call1/foo"
-    "api/v1/call1/bar42"
-    "api/v1/call1/666"
-  ]
-  api: true
-  assert_json: true
-  finished: true
-  presenter: api

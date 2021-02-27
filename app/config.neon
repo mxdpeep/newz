@@ -1,7 +1,8 @@
 ### NEWZ
 
 # uncomment to force debug !!!
-dbg: TRUE
+#dbg: TRUE
+dbg: FALSE
 
 # CORE
 app: newz
@@ -52,5 +53,6 @@ routers: [
 lang: cs
 l:
   title: "NEWZ"
+  subtitle: "🤕 Co se zase děje..."
   author: "Fred Brooker @ GS Cloud Ltd."
-  noscript: "Please enable JavaScript!"
+  noscript: "☠️ Povolte, prosím, JavaScript v prohlížeči ☠️"
