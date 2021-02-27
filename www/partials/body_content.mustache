@@ -1,0 +1,24 @@
+<div class="container">
+  <div class="row">
+    <div class="col-8">
+      <h1 class="center font-light">{{ l.subtitle }}</h1>
+    </div>
+    <div class="col-4 right">
+      {{^user.id}}{{>login}}{{/user.id}}{{#user.id}}{{>logout}}{{/user.id}}
+    </div>
+  </div>
+  <div class="row">
+    <h2>Titulek</h2>
+    <p>
+      Příliš žluťoučký kůň úpěl ďábelské ó. K podobným účelům mohou sloužit též například věty: Zvlášť zákeřný učeň s
+      ďolíčky běží podél zóny úlů. Vyciď křišťálový nůž ...
+      <div class="right">
+        <a href="https://novinky.cz/">novinky.cz</a>
+      </div>
+    </p>
+  </div>
+  <div class="col-2 hidden-sm"></div>
+</div>
+<span id="offline"
+  style="position:fixed;bottom:0;right:0;background-color:transparent;font-size:2rem;padding:1em;z-index:99999"
+  aria-hidden="true" tabindex="-1"><b>📵</b></span>
