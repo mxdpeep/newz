@@ -17,7 +17,7 @@ gcp_project_id: "gscloudcz-163314"
 
 # Google OAUTH 2.0
 goauth_origin: "https://newz.mxd.cz"
-goauth_redirect: "https://newz.mxd/login"
+goauth_redirect: "https://newz.mxd.cz/login"
 
 # local Google OAUTH 2.0
 local_goauth_origin: "http://localhost:8023"
